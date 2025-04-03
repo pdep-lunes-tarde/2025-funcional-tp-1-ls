@@ -8,8 +8,8 @@ Integrantes:
 - Legajo: **220.885-4** 
 - Nombre: **Luca Smario Raimondi**
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **164.086-0** 
+- Nombre: **Sergio Daniel Vargas**
 
 
 ## Objetivos
