@@ -5,7 +5,7 @@
 - Nombre del grupo: **LS**
 
 Integrantes:
-- Legajo: **220.885-4** 
+- Legajo: **220.885-** 
 - Nombre: **Luca Smario Raimondi**
 
 - Legajo: **Completar** 
