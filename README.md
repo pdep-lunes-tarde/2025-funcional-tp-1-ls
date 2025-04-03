@@ -2,14 +2,14 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: **LS**
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **220.885-4** 
+- Nombre: **Luca Smario Raimondi**
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **164.086-0** 
+- Nombre: **Sergio Daniel Vargas**
 
 
 ## Objetivos
